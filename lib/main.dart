@@ -1,6 +1,8 @@
 import 'package:buildapps/ui/Home.dart';
 import 'package:flutter/material.dart';
 
+import 'file:///C:/Users/sid/AndroidStudioProjects/buildapps/lib/widgets/second_screen.dart';
+
 void main() {
   runApp(
     MaterialApp(
